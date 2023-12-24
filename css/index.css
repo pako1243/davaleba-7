@@ -1,0 +1,228 @@
+
+.wraper
+
+{
+/* background-color: black;  */
+    width: 100%
+    
+    
+
+}
+
+
+.header {
+    /* background-color: red; */
+    width: 80%;
+    height: 65px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+
+}
+
+.header a{
+    text-decoration: none;
+    color: #37393F;
+    margin-right: 20px;
+    
+}
+
+.header button{
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+
+.baner{
+    margin-top: 10px;
+    /* background-color: green; */
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+
+.text{
+    
+    
+    width: 100%;
+    height:86px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    /* background-color: gray; */
+    text-align: center;
+}
+
+.text p{
+ font-family: Inter;
+font-size: 18px;
+
+
+}
+
+
+.text h1{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+
+}
+.box1{
+    width: 30%;
+    height: 350px;
+    background-color: #F4F4F4;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+.box1 p:first-child {
+    font-family: Poppins;
+font-size: 25px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+
+  }
+
+  .box1 p:nth-child(2) {
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color: #7D7D7D;
+
+  }
+
+
+  .box1 p:nth-child(3) {
+    font-family: Inter;
+    font-size: 18px;
+    color:#6B77E5
+    
+
+
+
+  }
+
+
+
+
+
+.blue{
+    margin-top: 100px;
+    width: 100%;
+    height: auto;
+    background-color:rgb(8, 211, 143);
+    position: relative;
+    
+}
+
+.blue img{
+    width: 100%;
+    height: 500px;
+    opacity: 0.3;
+
+}
+
+.text2{
+    position: absolute;
+    top:100px;
+    left: 250px;
+    text-align: center;
+}
+
+.text2 p:first-child {
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+
+
+
+}
+.text2 p:nth-child(2) {
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+
+
+    
+}
+.text2 p:nth-child(3) {
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+
+
+    
+}
+
+
+
+
+.footer{
+    width: 80%;
+    height: auto;
+    /* background-color: chartreuse; */
+    margin-top:100px;
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+
+}
+
+
+
+.team{
+    width:100%;
+    text-align: center;
+
+}
+
+.container{
+    position: relative;
+}
+
+.container img{
+    width:300px;
+    
+}
+
+
+
+.ragaca{
+    width:280px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 100px;
+    left:10px;
+    text-align: center;
+}
+
+
+
+
+
+
